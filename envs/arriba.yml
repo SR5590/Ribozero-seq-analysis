@@ -1,0 +1,8 @@
+name: Arriba
+channels:
+  - r
+  - bioconda
+  - defaults
+  - conda-forge
+dependencies:
+ - arriba==1.2.0

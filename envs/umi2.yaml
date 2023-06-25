@@ -1,0 +1,5 @@
+name: umi2
+channels:
+ - conda-forge
+dependencies:
+ - biopython
